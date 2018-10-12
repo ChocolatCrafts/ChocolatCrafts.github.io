@@ -364,7 +364,11 @@ input, select, textarea {
 	}
 
 		h1.major {
-			margin: 0 0 2.625rem 0;
+			font-family: 'Sarpanch', sans-serif;
+			transform: scale(1, .5);
+			font-weight: lighter;
+			line-height: 5rem;
+			margin: 0 0 -0.9rem 0;
 		}
 
 			h1.major:after {
